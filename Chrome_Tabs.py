@@ -6,7 +6,7 @@ import time
 # List of URLs to open
 urls = [
        
-    # py your urls here
+    # put your urls here
 ]
 
 # Chrome options for incognito mode
